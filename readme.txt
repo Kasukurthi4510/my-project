@@ -1,4 +1,4 @@
 Welcome to MyProject
 
-Author: Naveen Kumar
+Author: Naveen Kumar Kasukurthi
 Twitter: @naveenkumar
